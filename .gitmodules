@@ -4,3 +4,6 @@
 [submodule "RemoteDataConnectLibrary"]
 	path = RemoteDataConnectLibrary
 	url = http://gitlab.schleissheimer.de/RemoteWorkstation/RemoteDataConnectLibrary
+[submodule "RemoteBoxWrapper"]
+	path = RemoteBoxWrapper
+	url = http://gitlab.schleissheimer.de/RemoteWorkstation/RemoteBoxWrapper
