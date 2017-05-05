@@ -1,3 +1,6 @@
 [submodule "RemoteCommunicationLibrary"]
 	path = RemoteCommunicationLibrary
 	url = http://gitlab.schleissheimer.de/RemoteWorkstation/RemoteCommunicationLibrary
+[submodule "RemoteDataConnectLibrary"]
+	path = RemoteDataConnectLibrary
+	url = http://gitlab.schleissheimer.de/RemoteWorkstation/RemoteDataConnectLibrary
