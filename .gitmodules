@@ -7,3 +7,6 @@
 [submodule "RemoteBoxWrapper"]
 	path = RemoteBoxWrapper
 	url = http://gitlab.schleissheimer.de/RemoteWorkstation/RemoteBoxWrapper
+[submodule "RemoteThirdParty"]
+	path = RemoteThirdParty
+	url = http://gitlab.schleissheimer.de/RemoteWorkstation/RemoteThirdParty
