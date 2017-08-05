@@ -1,12 +1,12 @@
 [submodule "RemoteCommunicationLibrary"]
 	path = RemoteCommunicationLibrary
-	url = http://gitlab.schleissheimer.de/RemoteWorkstation/RemoteCommunicationLibrary
+	url = http://github.com/masterofeye/RemoteCommunicationLibrary
 [submodule "RemoteDataConnectLibrary"]
 	path = RemoteDataConnectLibrary
-	url = http://gitlab.schleissheimer.de/RemoteWorkstation/RemoteDataConnectLibrary
+	url = http://github.com/masterofeye/RemoteDataConnectLibrary
 [submodule "RemoteBoxWrapper"]
 	path = RemoteBoxWrapper
-	url = http://gitlab.schleissheimer.de/RemoteWorkstation/RemoteBoxWrapper
+	url = https://github.com/masterofeye/RemoteboxWrapper
 [submodule "RemoteThirdParty"]
 	path = RemoteThirdParty
-	url = http://gitlab.schleissheimer.de/RemoteWorkstation/RemoteThirdParty
+	url = https://github.com/masterofeye/RemoteThirdParty
